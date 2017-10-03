@@ -1,0 +1,22 @@
+{
+  "name": "videoinfo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "electron": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Trabing/videoinfo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Trabing/videoinfo/issues"
+  },
+  "homepage": "https://github.com/Trabing/videoinfo#readme",
+  "dependencies": {
+    "electron": "^1.7.8"
+  }
+}
