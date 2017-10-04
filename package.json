@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Trabing/videoinfo#readme",
   "dependencies": {
-    "electron": "^1.7.8"
+    "electron": "^1.7.8",
+    "fluent-ffmpeg": "^2.1.2"
   }
 }
